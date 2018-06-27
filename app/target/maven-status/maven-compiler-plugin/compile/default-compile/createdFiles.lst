@@ -1,0 +1,5 @@
+com\unisys\microservices\helloworld\model\Customer.class
+com\unisys\microservices\helloworld\model\CustomerType.class
+com\unisys\microservices\helloworld\api\Api.class
+com\unisys\microservices\helloworld\Application.class
+com\unisys\microservices\helloworld\exceptions\CustomerNotFoundException.class
